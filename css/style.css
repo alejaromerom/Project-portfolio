@@ -95,3 +95,64 @@ h4 {
 	letter-spacing: 2px;
 	font-size: 20px;
 }
+
+.thiscontact form {
+	width: 380px;
+	max-width: 100%;
+	position: relative;
+}
+.thiscontact form input:first-child {
+	display: inline-block;
+	width: 100%;
+	padding: 14px 130px 14px 15px;
+	border: 2px solid greenyellow;
+	outline: none;
+	border-radius: 30px;
+}
+.thiscontact form input:last-child {
+	position: absolute;
+	display: inline-block;
+	outline: none;
+	border: none;
+	padding: 10px 30px;
+	border-radius: 30px;
+	background-color: greenyellow;
+	color: black;
+	box-shadow: 0px 0px 5px #000 0px 0px 15px #858585;
+	top: 6px;
+	right: 6px;
+}
+
+.about {
+	width: 100%;
+	padding: 100px 0px;
+	background-color: #191919;
+}
+.about img {
+	height: auto;
+	width: 430px;
+}
+.about-text {
+	width: 550px;
+}
+
+.main {
+	width: 1130px;
+	max-width: 95%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.about-text h2 {
+	color: white;
+	font-size: 75px;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
+.about-text h5 {
+	color: white;
+	letter-spacing: 2px;
+	font-size: 22px;
+}
