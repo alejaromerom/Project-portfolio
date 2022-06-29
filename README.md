@@ -1,3 +1,3 @@
 # Project-portfolio
 
-Portafolio con CREADO CON HTML Y CSS puro. 
+Portafolio CREADO CON HTML Y CSS puro. 
