@@ -77,3 +77,21 @@ nav ul li a:hover {
 	left: 8%;
 	transform: translateY(-50%);
 }
+
+h1 {
+	color: white;
+	margin: 20px 0px 20px;
+	font-size: 75px;
+}
+
+h3 {
+	color: white;
+	font-size: 25px;
+	margin-bottom: 50px;
+}
+
+h4 {
+	color: rgb(151, 189, 95);
+	letter-spacing: 2px;
+	font-size: 20px;
+}
